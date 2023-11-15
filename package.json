@@ -41,11 +41,11 @@
     "dayjs": "^1.9.6",
     "esbuild": "^0.11.6",
     "escape-html": "^1.0.3",
-    "exceljs": "^4.4.0",
     "flatpickr": "^4.6.6",
     "jquery": "^2.2.4",
     "numeral": "^2.0.6",
-    "pako": "^1.0.11"
+    "pako": "^1.0.11",
+    "xlsx": "https://cdn.sheetjs.com/xlsx-0.20.0/xlsx-0.20.0.tgz"
   },
   "scripts": {
     "build": "cross-env NODE_ENV=production gulp build",
